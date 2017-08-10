@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "产业1经理",
+    "goldAddition": 0,
+    "unlockPrice": 100,
+    "factoryId": 1,
+    "prevId": 0,
+    "nextId": 11
+  },
+  {
+    "id": 2,
+    "name": "产业2经理",
+    "goldAddition": 0,
+    "unlockPrice": 200,
+    "factoryId": 2,
+    "prevId": 0,
+    "nextId": 12
+  },
+  {
+    "id": 3,
+    "name": "产业3经理",
+    "goldAddition": 0,
+    "unlockPrice": 400,
+    "factoryId": 3,
+    "prevId": 0,
+    "nextId": 13
+  },
+  {
+    "id": 4,
+    "name": "产业4经理",
+    "goldAddition": 0,
+    "unlockPrice": 800,
+    "factoryId": 4,
+    "prevId": 0,
+    "nextId": 14
+  },
+  {
+    "id": 5,
+    "name": "产业5经理",
+    "goldAddition": 0,
+    "unlockPrice": 1600,
+    "factoryId": 5,
+    "prevId": 0,
+    "nextId": 15
+  },
+  {
+    "id": 6,
+    "name": "产业6经理",
+    "goldAddition": 0,
+    "unlockPrice": 3200,
+    "factoryId": 6,
+    "prevId": 0,
+    "nextId": 16
+  },
+  {
+    "id": 7,
+    "name": "产业7经理",
+    "goldAddition": 0,
+    "unlockPrice": 6400,
+    "factoryId": 7,
+    "prevId": 0,
+    "nextId": 17
+  },
+  {
+    "id": 8,
+    "name": "产业8经理",
+    "goldAddition": 0,
+    "unlockPrice": 10000,
+    "factoryId": 8,
+    "prevId": 0,
+    "nextId": 18
+  },
+  {
+    "id": 9,
+    "name": "产业9经理",
+    "goldAddition": 0,
+    "unlockPrice": 12000,
+    "factoryId": 9,
+    "prevId": 0,
+    "nextId": 19
+  },
+  {
+    "id": 10,
+    "name": "产业10经理",
+    "goldAddition": 0,
+    "unlockPrice": 14000,
+    "factoryId": 10,
+    "prevId": 0,
+    "nextId": 20
+  },
+  {
+    "id": 11,
+    "name": "产业1经理2",
+    "goldAddition": 3,
+    "unlockPrice": 16000,
+    "factoryId": 1,
+    "prevId": 1,
+    "nextId": 21
+  },
+  {
+    "id": 12,
+    "name": "产业2经理2",
+    "goldAddition": 3,
+    "unlockPrice": 18000,
+    "factoryId": 2,
+    "prevId": 2,
+    "nextId": 22
+  },
+  {
+    "id": 13,
+    "name": "产业3经理2",
+    "goldAddition": 3,
+    "unlockPrice": 20000,
+    "factoryId": 3,
+    "prevId": 3,
+    "nextId": 23
+  },
+  {
+    "id": 14,
+    "name": "产业4经理2",
+    "goldAddition": 3,
+    "unlockPrice": 22000,
+    "factoryId": 4,
+    "prevId": 4,
+    "nextId": 24
+  },
+  {
+    "id": 15,
+    "name": "产业5经理2",
+    "goldAddition": 3,
+    "unlockPrice": 24000,
+    "factoryId": 5,
+    "prevId": 5,
+    "nextId": 25
+  },
+  {
+    "id": 16,
+    "name": "产业6经理2",
+    "goldAddition": 3,
+    "unlockPrice": 26000,
+    "factoryId": 6,
+    "prevId": 6,
+    "nextId": 26
+  },
+  {
+    "id": 17,
+    "name": "产业7经理2",
+    "goldAddition": 3,
+    "unlockPrice": 28000,
+    "factoryId": 7,
+    "prevId": 7,
+    "nextId": 27
+  },
+  {
+    "id": 18,
+    "name": "产业8经理2",
+    "goldAddition": 3,
+    "unlockPrice": 30000,
+    "factoryId": 8,
+    "prevId": 8,
+    "nextId": 28
+  },
+  {
+    "id": 19,
+    "name": "产业9经理2",
+    "goldAddition": 3,
+    "unlockPrice": 32000,
+    "factoryId": 9,
+    "prevId": 9,
+    "nextId": 29
+  },
+  {
+    "id": 20,
+    "name": "产业10经理2",
+    "goldAddition": 3,
+    "unlockPrice": 34000,
+    "factoryId": 10,
+    "prevId": 10,
+    "nextId": 30
+  },
+  {
+    "id": 21,
+    "name": "产业1经理3",
+    "goldAddition": 5,
+    "unlockPrice": 36000,
+    "factoryId": 1,
+    "prevId": 11,
+    "nextId": 0
+  },
+  {
+    "id": 22,
+    "name": "产业2经理3",
+    "goldAddition": 5,
+    "unlockPrice": 38000,
+    "factoryId": 2,
+    "prevId": 12,
+    "nextId": 0
+  },
+  {
+    "id": 23,
+    "name": "产业3经理3",
+    "goldAddition": 5,
+    "unlockPrice": 40000,
+    "factoryId": 3,
+    "prevId": 13,
+    "nextId": 0
+  },
+  {
+    "id": 24,
+    "name": "产业4经理3",
+    "goldAddition": 5,
+    "unlockPrice": 42000,
+    "factoryId": 4,
+    "prevId": 14,
+    "nextId": 0
+  },
+  {
+    "id": 25,
+    "name": "产业5经理3",
+    "goldAddition": 5,
+    "unlockPrice": 44000,
+    "factoryId": 5,
+    "prevId": 15,
+    "nextId": 0
+  },
+  {
+    "id": 26,
+    "name": "产业6经理3",
+    "goldAddition": 5,
+    "price": 46000,
+    "factoryId": 6,
+    "prevId": 16,
+    "nextId": 0
+  },
+  {
+    "id": 27,
+    "name": "产业7经理3",
+    "goldAddition": 5,
+    "unlockPrice": 48000,
+    "factoryId": 7,
+    "prevId": 17,
+    "nextId": 0
+  },
+  {
+    "id": 28,
+    "name": "产业8经理3",
+    "goldAddition": 5,
+    "unlockPrice": 50000,
+    "factoryId": 8,
+    "prevId": 18,
+    "nextId": 0
+  },
+  {
+    "id": 29,
+    "name": "产业9经理3",
+    "goldAddition": 5,
+    "unlockPrice": 52000,
+    "factoryId": 9,
+    "prevId": 19,
+    "nextId": 0
+  },
+  {
+    "id": 30,
+    "name": "产业10经理3",
+    "goldAddition": 5,
+    "unlockPrice": 54000,
+    "factoryId": 10,
+    "prevId": 20,
+    "nextId": 0
+  }
+]
